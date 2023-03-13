@@ -22,7 +22,7 @@ import React from "react";
                 </tr>
                 <tr>
                     <td>Programs</td>
-                    <td></td>
+                    <td>Busia</td>
                 </tr>
                 <tr>
                     <td></td>
